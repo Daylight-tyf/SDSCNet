@@ -38,7 +38,7 @@ Illustrations of the proposed DCERM.
    
    Modify paths of datasets, then run train.py.
 
-Note: Our main model is under './model/DASGNet.py'
+Note: Our main model is under './model/SDSCNet.py'
 
 ## 🛸 Testing
    1. Modify paths of pre-trained models and datasets.
